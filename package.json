@@ -1,7 +1,7 @@
 {
-  "name": "theme-starter",
-  "title": "Starter Theme",
-  "displayName": "Starter Theme",
+  "name": "teal-abyss-mail-spring",
+  "title": "Teal Abyss",
+  "displayName": "Teal Abyss",
   "theme": "ui",
   "version": "0.1.0",
   "description": "A great dark theme to start your own themes.",
@@ -10,4 +10,3 @@
     "mailspring": "*"
   }
 }
-
